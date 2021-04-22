@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - PlayerAttack
+  - EnemyAttack
+  - Point
+  - Clone
+  - Wall
+  - EnemyWall
+  - TalkPenel
+  - Button
+  - PlayerCamera
+  - LevelBounds
+  - PlayerStartPos
+  - Restart
+  - healitem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EnemySee
+  - PlayerAttack
+  - Enemy
+  - EnemyAttack
+  - EnemyPoint
+  - Player
+  - Wall
+  - EnemyWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2505574673
+    locked: 0
+  - name: Sun
+    uniqueID: 2266783537
+    locked: 0
+  - name: Back
+    uniqueID: 85275003
+    locked: 0
+  - name: Ground
+    uniqueID: 1894268699
+    locked: 0
+  - name: Player
+    uniqueID: 3683431429
+    locked: 0
+  - name: Enemy
+    uniqueID: 761013865
+    locked: 0
+  - name: Front
+    uniqueID: 3995155731
+    locked: 0

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cips6\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cips6\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_New URP 別組專題.-374999106.00" t="ExcludeRecursive" />
+    <e p="C:\Users\cips6\Documents\mygame\New URP 別組專題" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+        <e p="我的資料" t="Include">
+          <e p="CS" t="Include">
+            <e p="Another" t="Include">
+              <e p="_EnemyAttack.cs" t="Include" />
+              <e p="RotationRandom.cs" t="Include" />
+              <e p="RotationSpawnSYS.cs" t="Include" />
+            </e>
+            <e p="Collision" t="Include">
+              <e p="Player.cs" t="Include" />
+            </e>
+            <e p="Manages" t="Include">
+              <e p="ButtonManages.cs" t="Include" />
+              <e p="CameraManage.cs" t="Include" />
+              <e p="DontDestyoyOnLoad.cs" t="Include" />
+              <e p="EventManager.cs" t="Include" />
+              <e p="LoadManager.cs" t="Include" />
+              <e p="M_SceneManager.cs" t="Include" />
+              <e p="PlayerPos.cs" t="Include" />
+              <e p="TalkManages.cs" t="Include" />
+            </e>
+            <e p="OtherOBJ_Events" t="Include">
+              <e p="BackGroundMove.cs" t="Include" />
+              <e p="BoundTEST.cs" t="Include" />
+              <e p="Bullet.cs" t="Include" />
+              <e p="HpBar.cs" t="Include" />
+              <e p="Parallax.cs" t="Include" />
+              <e p="RepeatBackground.cs" t="Include" />
+            </e>
+            <e p="TalkS" t="Include">
+              <e p="SaySYS" t="Include">
+                <e p="SaySys.cs" t="Include" />
+              </e>
+              <e p="字型" t="Include">
+                <e p="ChineseFont.txt" t="Include" />
+              </e>
+              <e p="文本" t="Include">
+                <e p="01.txt" t="Include" />
+                <e p="02.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Trash" t="Include">
+              <e p="PointOnTriggerDestroy.cs" t="Include" />
+            </e>
+            <e p="Trigger" t="Include">
+              <e p="Enemy1.cs" t="Include" />
+              <e p="Enemy2.cs" t="Include" />
+              <e p="EnemyAttack.cs" t="Include" />
+              <e p="EnemyAttackRange.cs" t="Include" />
+              <e p="EnemySeeRange.cs" t="Include" />
+              <e p="OnGround.cs" t="Include" />
+              <e p="RandomForward.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="New URP 別組專題.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
