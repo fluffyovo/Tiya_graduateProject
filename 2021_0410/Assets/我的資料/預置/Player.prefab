@@ -242,7 +242,7 @@ MonoBehaviour:
   moveSpeed: 10
   AttackMoveSpeed: 6
   jumpForce: 15
-  Player_HP: 5000
+  Player_HP: 250
   CurPlayerHP: 0
   AttackCoolDown: 0.4
   KnockBack: 200
@@ -523,7 +523,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 0
-    m_SensorSize: {x: 1.7798913, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
